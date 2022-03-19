@@ -1,6 +1,6 @@
 {
-  "commitMessage": "manual nbackup @ {{date}}",
-  "autoCommitMessage": "auto note sync @ {{date}}",
+  "commitMessage": "manual notes backup @ {{date}}",
+  "autoCommitMessage": "auto notes sync @ {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPullInterval": 1,
