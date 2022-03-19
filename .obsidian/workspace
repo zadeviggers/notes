@@ -7,12 +7,8 @@
         "id": "8854c985fcbe8af2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Books I've read in english.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books I've read in english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
