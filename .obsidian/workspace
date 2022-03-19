@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books I've read in english.md",
+            "file": "Ready player one.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books I've read in english.md",
+                "file": "Ready player one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "8854c985fcbe8af2",
   "lastOpenFiles": [
+    "Ready player one.md",
     "Books I've read in english.md",
     "Remains of the day.md",
     "Stuff to do.md",
