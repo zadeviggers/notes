@@ -7,5 +7,5 @@ graph TD;
 	B{Are there any lone pairs of electrons?}-->|No| D;
 	B-->|Yes| C;
 	C[Polar.];
-	D[Non-polar (probably, I think there are some edge cases though.)];
+	D["Non-polar (probably, I think there are some edge cases though.)"];
 ```
