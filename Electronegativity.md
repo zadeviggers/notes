@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;  
-	A-->B;
+	A[Is it]-->B;
 	A-->C;
 	B-->D;
 	C-->D;
