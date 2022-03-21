@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;  
-	A[Is it]-->B;
+	A[Are the outer atoms the same?]-->B;
 	A-->C;
 	B-->D;
 	C-->D;
