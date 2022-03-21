@@ -8,13 +8,9 @@ graph TD;
 	C(Death comes to us all);
 ```
 Why? Becuase the diamon shapes (which apprently are meant to be used for descions) are really big and make it hard to see the whole flowchar on one screen. 
-```
+```mermaid
 graph TD;
-	A{A}-->B;
-	A{A}-->B;
-	A{A}-->B;
-	C[Are there any lone pairs of electrons?]-->|No| E;
-	C-->|Yes| D;
-	D(Polar.);
-	E("Non-polar (probably, I think there are some edge cases though.)");
+	A{Text goes here Text goes here}-->B;
+	B{Text goes here Text goes here}-->C;
+	C{Text goes here Text goes here};
 ```
