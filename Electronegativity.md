@@ -1,8 +1,9 @@
 # Electronegativity
 
 ```mermaid
-graph TD
-
-id1(Incoming Media)
-
+graph TD;  
+A–>B;  
+A–>C;  
+B–>D;  
+C–>D;  
 ```
