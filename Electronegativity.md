@@ -11,3 +11,5 @@ graph TD;
 	E("Non-polar (probably, I think there are some edge cases though.)");
 ```
 [[Flowcharts]]
+
+![[Pasted image 20220321210213.png]] Thank you wikipedia.
