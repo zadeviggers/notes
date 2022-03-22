@@ -7,8 +7,12 @@
         "id": "8854c985fcbe8af2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Python colorsys.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python colorsys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "8854c985fcbe8af2",
   "lastOpenFiles": [
+    "Python colorsys.md",
     "Flowcharts.md",
     "Electronegativity.md",
     "Chemistry.md",
