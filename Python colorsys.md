@@ -15,4 +15,6 @@ def hsv_to_rgb(h, s, v):
 ```
 Like, why?
 Why do I need this??
-It would honestly be better if there wasn't a built-in colour module becuase
+It would honestly be better if there wasn't a built-in colour module in python becuase then there would be a good community-maintained one.
+
+In fact, I just saw [This post]()
